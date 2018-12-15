@@ -1,1 +1,1 @@
-# University-Admission-Predictor-Modal
+# University-Admission-Predictor-Model
